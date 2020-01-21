@@ -7,4 +7,5 @@ class Song
   
   @@genres = []
   
-  def @@
+  def self.genres
+    
