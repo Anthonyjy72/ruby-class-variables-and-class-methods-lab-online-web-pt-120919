@@ -7,4 +7,4 @@ class Song
   
   @@genres = []
   
-  def 
+  def @@
