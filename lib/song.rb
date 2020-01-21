@@ -1,2 +1,2 @@
 class Song
-  @@Song
+  @@count = 0
